@@ -1,0 +1,30 @@
+{
+  "name": "silabas",
+  "version": "1.0.0",
+  "description": "Spanish syllable separator for javascript",
+  "main": "silabas.js",
+  "dependencies": {
+    "chai": "^2.2.0",
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vic/silabas.js"
+  },
+  "keywords": [
+    "spanish",
+    "syllable"
+  ],
+  "author": "Victor Hugo Borja <vborja@apache.org>",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/vic/silabas.js/issues"
+  },
+  "homepage": "https://github.com/vic/silabas.js"
+}

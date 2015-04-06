@@ -1,0 +1,21 @@
+{
+  "name": "silabas",
+  "version": "0.0.0",
+  "authors": [
+    "Victor Borja <vborja@apache.org>"
+  ],
+  "description": "Spanish sillable separator for javascript",
+  "main": "silabas.js",
+  "keywords": [
+    "spanish",
+    "sillable"
+  ],
+  "license": "GPLv2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
