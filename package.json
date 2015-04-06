@@ -1,6 +1,6 @@
 {
   "name": "silabas",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Spanish syllable separator for javascript",
   "main": "silabas.js",
   "bin": {
