@@ -4,10 +4,10 @@
   "description": "Spanish syllable separator for javascript",
   "main": "silabas.js",
   "dependencies": {
-    "chai": "^2.2.0",
-    "gulp": "^3.8.11"
   },
   "devDependencies": {
+    "chai": "^2.2.0",
+    "gulp": "^3.8.11",
     "browserify": "^9.0.7",
     "gulp-coverage": "^0.3.34",
     "gulp-mocha": "^2.0.1",
