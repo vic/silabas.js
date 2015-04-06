@@ -8,10 +8,12 @@
     "gulp": "^3.8.11"
   },
   "devDependencies": {
+    "browserify": "^9.0.7",
     "mocha": "^2.2.1"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "browserify": "browserify silabas.js > browser/silabas.js"
   },
   "repository": {
     "type": "git",
