@@ -1,6 +1,6 @@
 {
   "name": "silabas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Spanish syllable separator for javascript",
   "main": "silabas.js",
   "bin": {
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "test": "mocha",
-    "browserify": "browserify silabas.js > browser/silabas.js"
+    "browserify": "browserify .browser.js > browser.js"
   },
   "repository": {
     "type": "git",
